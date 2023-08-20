@@ -2,3 +2,77 @@
 
     Requirements: index page, a few recipes (3)
         set up in github, 
+
+        An image of the finished dish
+        Description heading under image
+        Trailed by an actual description of the recipes
+
+        Ingredients heading
+        unordered list of Ingredients
+
+        Steps heading
+        ordered list of the steps{
+            "
+            }
+            {}
+        }
+
+
+        Turkey burger recipe
+        * a turkey burger recipe made using raw ground turkey
+
+        Turkey burger Ingredients
+        * ground turkey
+        * yellow onion
+            spices
+        * garlic powder
+        * adobo seasoning
+        * salt
+            useful tools
+        * mixing bowl
+        * surface to roll and hold ground turkey balls
+        * non-stick pan
+
+        Turkey burger steps
+        * place ground turkey into bowl
+        * season until smells like the seasonings added
+        * take portions of mixed ground turkey and roll all of it into desired amount of balls
+        * heat pan on low and cook balls until brown and bloodless
+        * enjoy
+
+
+
+
+
+
+
+
+
+        Pizza recipe
+        * a boboli style pizza recipe using a pre-made crust
+        
+        Pizza Ingredients
+        * base crust
+        * sauce (tomato/bbq)
+        * cheddar cheese
+        * mozzerella cheese
+        * ground turkey
+            spices
+        * garlic powder
+        * onion powder
+        * thyme
+        * red pepper flakes
+            useful tools
+        * cookie sheet
+        * pizza cutter
+
+        Pizza steps
+        * pre-heat oven to 350 degrees f
+        * first layout pizza crust base and add suace of choice
+        * season with garlic and onion powder and spread on crust
+        * add mozzerela cheese as the base
+        * then put a light amount of cheddar on top
+        * add non-frozen ground turkey overtop
+        * season lightly with thyme
+        * bake for 10 minutes
+        * enjoy
