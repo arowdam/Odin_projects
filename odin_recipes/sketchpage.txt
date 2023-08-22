@@ -44,10 +44,6 @@
 
 
 
-
-
-
-
         Pizza recipe
         * a boboli style pizza recipe using a pre-made crust
         
@@ -76,3 +72,25 @@
         * season lightly with thyme
         * bake for 10 minutes
         * enjoy
+
+
+
+
+        Waffle recipe
+        * a homemade waffle recipe using a waffle iron
+
+        Waffle Ingredients
+        * waffle mix
+        * water
+        * spray oil
+                useful tools
+        * waffle iron
+        * mixing bowl
+
+        Waffle steps
+        * pre-heat waffle iron if necessary
+        * poor mix into bowl and add water till liquid has yogurt consistency
+        * pour appropriate amount into waffle iron
+        * close waffle iron
+        * wait for iron to steam and then remove once the steam stops
+        * enjoy 
